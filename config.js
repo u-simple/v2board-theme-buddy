@@ -1,5 +1,5 @@
 window.config={
-    logo: 'https://img2.imgtp.com/2024/03/11/YzU8iDJp.png', // 网站logo
+    logo: 'https://pub-ffa64d2f96c84c02bc4406fe5aa0e786.r2.dev/elinks_logo_website_100x100.png', // 网站logo
     title:"Elinks", // 网站标题
     host:"https://www.elinksapi.com/", // 后端接口地址
     storeHome: {
